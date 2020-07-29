@@ -1,0 +1,22 @@
+.card {
+    background: #05A032;
+    color: #ddd;
+    font-size: 0.8rem;
+    width: 70rem;
+    height: 15rem;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 10px;
+}
+
+.card-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
